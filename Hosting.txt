@@ -1,0 +1,7 @@
+Netlify hosting:
+
+https://64ec3454b05a0f5a70888274--papaya-rugelach-0eb632.netlify.app/
+
+Git-Hub hosting:
+
+https://github.com/srijan9051/Dictionary-App.git
